@@ -1,0 +1,24 @@
+[
+  {
+    "employeeId": "1088",
+    "firstName": "John",
+    "lastName": "Ed",
+    "email": "test@gmail.com",
+    "gender": "Male",
+    "newJoiner": "TRUE",
+    "learningPending": "FALSE",
+    "salary": 101146,
+    "rating": 0
+  },
+  {
+    "employeeId": "6476",
+    "firstName": "Jonny",
+    "lastName": "Json",
+    "email": "test@yahoo.com",
+    "gender": "Male",
+    "newJoiner": "FALSE",
+    "learningPending": "TRUE",
+    "salary": 89310,
+    "rating": 2
+  }
+  ]
